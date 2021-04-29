@@ -22,6 +22,7 @@ Study Diary
 
 * MIT Open Lecture Ch.2 (half)
 * 3 questions on Leetcode
+
 | No   | Title                             | Stack                         |
 | ---- |:---------------------------------:| :---------------------------: |
 | 63   | Unique Paths II                   | math                          |
