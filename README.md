@@ -29,4 +29,4 @@ Study Diary
 | 1192 | Critical Connections in a Network | graph, tarjan's algoritm, dfs |
 | 696  | Count Binary Substrings           | string, encode/decode         |
 
-* tarjan's algorith: https://www.youtube.com/watch?v=2kREIkF9UAs
+* tarjan's algorithm: https://www.youtube.com/watch?v=2kREIkF9UAs
