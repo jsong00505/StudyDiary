@@ -29,4 +29,16 @@ Study Diary
 | 1192 | Critical Connections in a Network | graph, tarjan's algoritm, dfs |
 | 696  | Count Binary Substrings           | string, encode/decode         |
 
-* tarjan's algorithm: https://www.youtube.com/watch?v=2kREIkF9UAs
+* tarjan's algorithm:
+  * https://www.youtube.com/watch?v=2kREIkF9UAs
+  * https://www.youtube.com/watch?v=RYaakWv5m6o
+
+## 2021-04-29
+
+* 3 questions on Leetcode
+
+| No   | Title                                                   | Stack                         |
+| ---- |:-------------------------------------------------------:| :---------------------------: |
+| 34   | Find First and Last Position of Element in Sorted Array | binary search                 |
+| 554  | Brick Wall                                              | hashmap                       |
+| 120  | Triangle                                                | dfs, dynamic programming      |
