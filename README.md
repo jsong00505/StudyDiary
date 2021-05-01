@@ -42,3 +42,13 @@ Study Diary
 | 34   | Find First and Last Position of Element in Sorted Array | binary search                 |
 | 554  | Brick Wall                                              | hashmap                       |
 | 120  | Triangle                                                | dfs, dynamic programming      |
+
+## 2021-04-30
+
+* 3 questions on Leetcode
+
+| No   | Title                         | Stack                         |
+| ---- |:-----------------------------:| :---------------------------: |
+| 970  | Powerful Integers             | hashmap, math                 |
+| 589  | N-ary Tree Preorder Traversal | tree, stack                   |
+| 377  | Combination Sum IV            | dynamic programming           |
