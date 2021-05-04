@@ -14,9 +14,21 @@
 | 1047 | Remove All Adjacent Duplicates In String  | stack                   |
 
 ## 2021-05-02
+
+* 3 questions on Leetcode
+
 | No   | Title                                     | Stack                     |
 | ---- |:-----------------------------------------:| :-----------------------: |
 | 630  | Course Schedule III                       | priority queue, iteration |
 | 1074 | Number of Submatrices That Sum to Target  | hashmap                   |
 | 560  | Subarray Sum Equals K                     | hashmap                   |
 
+## 2021-05-03
+
+* 3 questions on Leetcode
+ 
+| No   | Title                                     | Stack                     |
+| ---- |:-----------------------------------------:| :-----------------------: |
+| 509  | Fibonacci Number                          | iteration, dp, recurssion |
+| 86   | Partition List                            | linked list, 2 pointers   |
+| 341  | Flatten Nested List Iterator              | design, stack             |
