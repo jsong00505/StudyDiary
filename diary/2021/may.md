@@ -35,7 +35,7 @@
 
 ## 2021-05-04
 
-* 7 questions on Leetcode
+* 8 questions on Leetcode
  
 | No   | Title                                     | Stack                     |
 | ---- |:-----------------------------------------:| :-----------------------: |
@@ -46,6 +46,4 @@
 | 526  | Beautiful Arrangement                     | array                     |
 | 1302 | Deepest Leaves Sum                        | tree, dfs                 |
 | 329  | Longest Increasing Path in a Matrix       | dfs, hashmap              |
-
-
-
+| 953  | Verifying an Alien Dictionary             | array, hashmap            |
