@@ -32,3 +32,20 @@
 | 509  | Fibonacci Number                          | iteration, dp, recurssion |
 | 86   | Partition List                            | linked list, 2 pointers   |
 | 341  | Flatten Nested List Iterator              | design, stack             |
+
+## 2021-05-04
+
+* 7 questions on Leetcode
+ 
+| No   | Title                                     | Stack                     |
+| ---- |:-----------------------------------------:| :-----------------------: |
+| 665  | Non-decreasing Array                      | greedy                    |
+| 1480 | Running Sum of 1d Array                   | array                     |
+| 341  | Flatten Nested List Iterator              | design, stack             |
+| 557  | Beautiful Arrangement II                  | array                     |
+| 526  | Beautiful Arrangement                     | array                     |
+| 1302 | Deepest Leaves Sum                        | tree, dfs                 |
+| 329  | Longest Increasing Path in a Matrix       | dfs, hashmap              |
+
+
+
