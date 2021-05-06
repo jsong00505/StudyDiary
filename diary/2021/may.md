@@ -47,3 +47,23 @@
 | 1302 | Deepest Leaves Sum                        | tree, dfs                 |
 | 329  | Longest Increasing Path in a Matrix       | dfs, hashmap              |
 | 953  | Verifying an Alien Dictionary             | array, hashmap            |
+
+
+## 2021-05-05
+
+* Questions on Leetcode
+| No   | Title                                     | Stack                     |
+| ---- |:-----------------------------------------:| :-----------------------: |
+| 1584 | Min Cost to Connect All Points            | mst, prim, kruskal        |
+| 787  | Cheapest Flights Within K Stops           | dijkstra, min heap        |
+| 787  | Cheapest Flights Within K Stops           | dijkstra, min heap        |
+| 1514 | Path with Maximum Probability             | dijkstra, max heap        |
+| 55   | Jump Game                                 | array, greedy             |
+| 45   | Jump Game II                              | array, greedy             |
+| 1306 | Jump Game III                             | dfs, bfs                  |
+
+* dijkstra
+  * https://leetcode.com/discuss/interview-question/731911/please-share-dijkstras-algorithm-questions
+  * https://leetcode.com/list/53js48ke/
+
+
