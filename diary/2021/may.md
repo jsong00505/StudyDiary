@@ -52,18 +52,40 @@
 ## 2021-05-05
 
 * Questions on Leetcode
-| No   | Title                                     | Stack                     |
-| ---- |:-----------------------------------------:| :-----------------------: |
-| 1584 | Min Cost to Connect All Points            | mst, prim, kruskal        |
-| 787  | Cheapest Flights Within K Stops           | dijkstra, min heap        |
-| 787  | Cheapest Flights Within K Stops           | dijkstra, min heap        |
-| 1514 | Path with Maximum Probability             | dijkstra, max heap        |
-| 55   | Jump Game                                 | array, greedy             |
-| 45   | Jump Game II                              | array, greedy             |
-| 1306 | Jump Game III                             | dfs, bfs                  |
+| No   | Title                                                                                                  | Stack                     |
+| ---- |:------------------------------------------------------------------------------------------------------:| :-----------------------: |                         
+| 1584 | Min Cost to Connect All Points                                                                         | mst, prim, kruskal        |
+| 787  | Cheapest Flights Within K Stops                                                                        | dijkstra, min heap        |
+| 1514 | Path with Maximum Probability                                                                          | dijkstra, max heap        |
+| 55   | Jump Game                                                                                              | array, greedy             |
+| 45   | Jump Game II                                                                                           | array, greedy             |
+| 1306 | Jump Game III                                                                                          | dfs, bfs                  |
+| 743  | Network Delay Time                                                                                     | dijkstra                  |
+| 1334 | Find the City With the Smallest Number of Neighbors at a Threshold Distance                            | shortest path             |
+
+
+## 2021-05-06
+
+* Questions on Leetcode
+ 
+| No   | Title                                        | Stack                     |
+| ---- |:--------------------------------------------:| :-----------------------: |
+| 1631 | Path With Minimum Effort                     | dijkstra, dfs             |
+| 207  | Course Schedule                              | topological sorting       |
+| 109  | Convert Sorted List to Binary Search Tree    | 2 pointers                |
+| 109  | Sort Items by Groups Respecting Dependencies | topological sorting       |
+| 17   | Letter Combinations of a Phone Number        | array, hashmap            |
+| 1704 | Determine if String Halves Are Alike         | array                     |
+| 1551 | Minimum Operations to Make Array Equal       | array, math               |
+| 775  | Global and Local Inversions                  | array, math               |
+| 622  | Design Circular Queue                        | circular queue            |
+
+
 
 * dijkstra
   * https://leetcode.com/discuss/interview-question/731911/please-share-dijkstras-algorithm-questions
   * https://leetcode.com/list/53js48ke/
 
 
+* topological sorting
+  * https://leetcode.com/tag/topological-sort/
