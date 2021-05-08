@@ -91,6 +91,14 @@
 | 516  | Longest Palindromic Subsequence              | dp, dfs                   |
 | 647  | Palindromic Substrings                       | dp, dfs                   |
 
+## 2021-05-08
+
+* Questions on Leetcode
+| No   | Title                                        | Stack                     |
+| ---- |:--------------------------------------------:| :-----------------------: |
+| 583  | Super Palindromes                            | dp, dfs                   |
+| 70   | Climbing Stairs                              | dp, dfs                   |
+| 322  | Coin Change                                  | dp, dfs                   |
 
 
 * dijkstra
