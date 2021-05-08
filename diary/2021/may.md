@@ -80,6 +80,17 @@
 | 775  | Global and Local Inversions                  | array, math               |
 | 622  | Design Circular Queue                        | circular queue            |
 
+## 2021-05-07
+
+* Questions on Leetcode
+ 
+| No   | Title                                        | Stack                     |
+| ---- |:--------------------------------------------:| :-----------------------: |
+| 583  | Delete Operation for Two Strings             | dp, dfs                   |
+| 1143 | Longest Common Subsequence                   | dp, dfs                   |
+| 516  | Longest Palindromic Subsequence              | dp, dfs                   |
+| 647  | Palindromic Substrings                       | dp, dfs                   |
+
 
 
 * dijkstra
