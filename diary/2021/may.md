@@ -99,7 +99,16 @@
 | 583  | Super Palindromes                            | dp, dfs                   |
 | 70   | Climbing Stairs                              | dp, dfs                   |
 | 322  | Coin Change                                  | dp, dfs                   |
+| 1    | Two Sum                                      | hash map                  |
 
+## 2021-05-09
+
+* Questions on Leetcode
+| No   | Title                                        | Stack                     |
+| ---- |:--------------------------------------------:| :-----------------------: |
+| 31   | Next Permutation                             | array                     |
+| 986  | Interval List Intersections                  | array                     |
+| 31   | Next Permutation                             | min heap                  |
 
 * dijkstra
   * https://leetcode.com/discuss/interview-question/731911/please-share-dijkstras-algorithm-questions
