@@ -110,6 +110,17 @@
 | 986  | Interval List Intersections                  | array                     |
 | 31   | Next Permutation                             | min heap                  |
 
+## 2021-05-10
+
+* Questions on Leetcode
+| No   | Title                                        | Stack                       |
+| ---- |:--------------------------------------------:| :-------------------------: |
+| 139  | Word Break                                   | dfs, array, dp              |
+| 146  | LRU Cache                                    | double linked list, hashmap |
+| 54   | Spiral Matrix                                | array                       |
+
+
+
 * dijkstra
   * https://leetcode.com/discuss/interview-question/731911/please-share-dijkstras-algorithm-questions
   * https://leetcode.com/list/53js48ke/
