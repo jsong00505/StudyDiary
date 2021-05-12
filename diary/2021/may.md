@@ -119,6 +119,15 @@
 | 146  | LRU Cache                                    | double linked list, hashmap |
 | 54   | Spiral Matrix                                | array                       |
 
+## 2021-05-11
+
+* Questions on Leetcode
+| No   | Title                                                   | Stack                       |
+| ---- |:-------------------------------------------------------:| :-------------------------: |
+| 528  | Random Pick with Weight                                 | array, bst                  |
+| 827  | Making A Large Island                                   | union finder, dfs           |
+| 34   | Find First and Last Position of Element in Sorted Array | bst                         |
+
 
 
 * dijkstra
