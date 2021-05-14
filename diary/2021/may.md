@@ -136,6 +136,16 @@
 | ---- |:-------------------------------------------------------:| :-------------------------: |
 | 203  | Remove Linked List Elements                             | linked list                 |
 
+## 2021-05-12
+
+* MIT opencourse study: heap & heap sort
+* Questions on Leetcode
+| No   | Title                                                   | Stack                       |
+| ---- |:-------------------------------------------------------:| :-------------------------: |
+| 647  | Palindromic Substrings                                  | dfs, dp                     |
+| 863  | All Nodes Distance K in Binary Tree                     | dfs, queue, graph           |
+
+
 
 
 
