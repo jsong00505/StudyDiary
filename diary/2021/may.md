@@ -94,6 +94,7 @@
 ## 2021-05-08
 
 * Questions on Leetcode
+* 
 | No   | Title                                        | Stack                     |
 | ---- |:--------------------------------------------:| :-----------------------: |
 | 583  | Super Palindromes                            | dp, dfs                   |
@@ -104,6 +105,7 @@
 ## 2021-05-09
 
 * Questions on Leetcode
+* 
 | No   | Title                                        | Stack                     |
 | ---- |:--------------------------------------------:| :-----------------------: |
 | 31   | Next Permutation                             | array                     |
@@ -113,6 +115,7 @@
 ## 2021-05-10
 
 * Questions on Leetcode
+* 
 | No   | Title                                        | Stack                       |
 | ---- |:--------------------------------------------:| :-------------------------: |
 | 139  | Word Break                                   | dfs, array, dp              |
@@ -122,6 +125,7 @@
 ## 2021-05-11
 
 * Questions on Leetcode
+* 
 | No   | Title                                                   | Stack                       |
 | ---- |:-------------------------------------------------------:| :-------------------------: |
 | 528  | Random Pick with Weight                                 | array, bst                  |
@@ -132,6 +136,7 @@
 
 * MIT opencourse study
 * Questions on Leetcode
+
 | No   | Title                                                   | Stack                       |
 | ---- |:-------------------------------------------------------:| :-------------------------: |
 | 203  | Remove Linked List Elements                             | linked list                 |
@@ -140,12 +145,11 @@
 
 * MIT opencourse study: heap & heap sort
 * Questions on Leetcode
+
 | No   | Title                                                   | Stack                       |
 | ---- |:-------------------------------------------------------:| :-------------------------: |
 | 647  | Palindromic Substrings                                  | dfs, dp                     |
 | 863  | All Nodes Distance K in Binary Tree                     | dfs, queue, graph           |
-
-
 
 
 
