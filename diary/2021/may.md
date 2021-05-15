@@ -151,7 +151,18 @@
 | 647  | Palindromic Substrings                                  | dfs, dp                     |
 | 863  | All Nodes Distance K in Binary Tree                     | dfs, queue, graph           |
 
+## 2021-05-12
 
+* MIT opencourse study: BST & BST sort
+* Questions on Leetcode
+
+| No   | Title                                                   | Stack                       |
+| ---- |:-------------------------------------------------------:| :-------------------------: |
+| 994  | Rotting Oranges                                         | dfs, heap                   |
+| 692  | Top K Frequent Words                                    | heap, map                   |
+| 21   | Merge Two Sorted Lists                                  | linked list                 |
+
+21. 
 
 * dijkstra
   * https://leetcode.com/discuss/interview-question/731911/please-share-dijkstras-algorithm-questions
