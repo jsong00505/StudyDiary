@@ -162,7 +162,15 @@
 | 692  | Top K Frequent Words                                    | heap, map                   |
 | 21   | Merge Two Sorted Lists                                  | linked list                 |
 
-21. 
+## 2021-05-14
+
+* Questions on Leetcode
+
+| No   | Title                                                   | Stack                       |
+| ---- |:-------------------------------------------------------:| :-------------------------: |
+| 102  | Binary Tree Level Order Traversal                       | bfs, dfs                    |
+| 752  | Open the Lock                                           | bfs                         |
+
 
 * dijkstra
   * https://leetcode.com/discuss/interview-question/731911/please-share-dijkstras-algorithm-questions
