@@ -141,7 +141,7 @@
 | ---- |:-------------------------------------------------------:| :-------------------------: |
 | 203  | Remove Linked List Elements                             | linked list                 |
 
-## 2021-05-12
+## 2021-05-13
 
 * MIT opencourse study: heap & heap sort
 * Questions on Leetcode
@@ -151,7 +151,7 @@
 | 647  | Palindromic Substrings                                  | dfs, dp                     |
 | 863  | All Nodes Distance K in Binary Tree                     | dfs, queue, graph           |
 
-## 2021-05-12
+## 2021-05-14
 
 * MIT opencourse study: BST & BST sort
 * Questions on Leetcode
