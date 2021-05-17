@@ -162,7 +162,7 @@
 | 692  | Top K Frequent Words                                    | heap, map                   |
 | 21   | Merge Two Sorted Lists                                  | linked list                 |
 
-## 2021-05-14
+## 2021-05-15
 
 * Questions on Leetcode
 
@@ -170,6 +170,16 @@
 | ---- |:-------------------------------------------------------:| :-------------------------: |
 | 102  | Binary Tree Level Order Traversal                       | bfs, dfs                    |
 | 752  | Open the Lock                                           | bfs                         |
+
+## 2021-05-16
+
+* Questions on Leetcode
+
+| No   | Title                                                   | Stack                       |
+| ---- |:-------------------------------------------------------:| :-------------------------: |
+| 53   | Maximum Subarray                                        | dp, array                   |
+| 224  | Basic Calculator                                        | stack, array                |
+| 127  | Word Ladder                                             | bfs                         |
 
 
 * dijkstra
