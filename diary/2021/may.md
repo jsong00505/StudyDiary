@@ -182,6 +182,17 @@
 | 127  | Word Ladder                                             | bfs                         |
 
 
+## 2021-05-16
+
+* Questions on Leetcode
+
+| No   | Title                                                   | Stack                       |
+| ---- |:-------------------------------------------------------:| :-------------------------: |
+| 1448 | Count Good Nodes in Binary Tree                         | dfs                         |
+| 88   | Merge Sorted Array                                      | array                       |
+| 1304 | Find N Unique Integers Sum up to Zero                   | array, math                 |
+
+
 * dijkstra
   * https://leetcode.com/discuss/interview-question/731911/please-share-dijkstras-algorithm-questions
   * https://leetcode.com/list/53js48ke/
