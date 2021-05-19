@@ -182,7 +182,7 @@
 | 127  | Word Ladder                                             | bfs                         |
 
 
-## 2021-05-16
+## 2021-05-17
 
 * Questions on Leetcode
 
@@ -191,6 +191,17 @@
 | 1448 | Count Good Nodes in Binary Tree                         | dfs                         |
 | 88   | Merge Sorted Array                                      | array                       |
 | 1304 | Find N Unique Integers Sum up to Zero                   | array, math                 |
+
+## 2021-05-18
+
+* System design videos
+* Questions on Leetcode
+
+| No   | Title                                                   | Stack                       |
+| ---- |:-------------------------------------------------------:| :-------------------------: |
+| 543  | Diameter of Binary Tree                                 | dfs                         |
+| 199  | Binary Tree Right Side View                             | dfs                         |
+| 125  | Valid Palindrome                                        | array                       |
 
 
 * dijkstra
