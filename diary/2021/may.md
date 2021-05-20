@@ -203,6 +203,11 @@
 | 199  | Binary Tree Right Side View                             | dfs                         |
 | 125  | Valid Palindrome                                        | array                       |
 
+## 2021-05-18
+
+* System design videos
+* Algorithm study
+
 
 * dijkstra
   * https://leetcode.com/discuss/interview-question/731911/please-share-dijkstras-algorithm-questions
