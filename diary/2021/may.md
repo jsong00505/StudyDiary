@@ -203,10 +203,22 @@
 | 199  | Binary Tree Right Side View                             | dfs                         |
 | 125  | Valid Palindrome                                        | array                       |
 
-## 2021-05-18
+## 2021-05-19
 
 * System design videos
 * Algorithm study
+
+## 2021-05-20
+
+* System design videos
+* MIT opencourse: AVL tree
+* Questions on Leetcode
+
+| No   | Title                                                   | Stack                       |
+| ---- |:-------------------------------------------------------:| :-------------------------: |
+| 151  | Reverse Words in a String                               | stack                       |
+| 218  | The Skyline Problem                                     | max heap                    |
+| 1578 | Minimum Deletion Cost to Avoid Repeating Letters        |                             |
 
 
 * dijkstra
