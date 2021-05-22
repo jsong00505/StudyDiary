@@ -220,6 +220,16 @@
 | 218  | The Skyline Problem                                     | max heap                    |
 | 1578 | Minimum Deletion Cost to Avoid Repeating Letters        |                             |
 
+## 2021-05-21
+
+* Questions on Leetcode
+
+| No   | Title                                                           | Stack                       |
+| ---- |:---------------------------------------------------------------:| :-------------------------: |
+| 1239 | Maximum Length of a Concatenated String with Unique Characters  | dfs                         |
+| 1647 | Minimum Deletions to Make Character Frequencies Unique          | array                       |
+
+
 
 * dijkstra
   * https://leetcode.com/discuss/interview-question/731911/please-share-dijkstras-algorithm-questions
