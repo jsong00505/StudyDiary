@@ -239,6 +239,15 @@
 | 117  | Populating Next Right Pointers in Each Node II                  | bfs                         |
 | 227  | Basic Calculator II                                             | stack                       |
 
+## 2021-05-22
+
+* Questions on Leetcode
+
+| No   | Title                                                           | Stack                       |
+| ---- |:---------------------------------------------------------------:| :-------------------------: |
+| 25   | Reverse Nodes in k-Group                                        | linked list, stack          |
+| 445  | Add Two Numbers II                                              | linked list, stack          |
+| 721  | Accounts Merge                                                  | hashmap, union find         |
 
 
 * dijkstra
