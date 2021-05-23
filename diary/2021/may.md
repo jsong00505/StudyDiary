@@ -229,6 +229,16 @@
 | 1239 | Maximum Length of a Concatenated String with Unique Characters  | dfs                         |
 | 1647 | Minimum Deletions to Make Character Frequencies Unique          | array                       |
 
+## 2021-05-22
+
+* Questions on Leetcode
+
+| No   | Title                                                           | Stack                       |
+| ---- |:---------------------------------------------------------------:| :-------------------------: |
+| 116  | Populating Next Right Pointers in Each Node                     | bfs                         |
+| 117  | Populating Next Right Pointers in Each Node II                  | bfs                         |
+| 227  | Basic Calculator II                                             | stack                       |
+
 
 
 * dijkstra
