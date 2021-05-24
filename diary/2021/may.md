@@ -249,6 +249,16 @@
 | 445  | Add Two Numbers II                                              | linked list, stack          |
 | 721  | Accounts Merge                                                  | hashmap, union find         |
 
+## 2021-05-23
+
+* Questions on Leetcode
+
+| No   | Title                                                           | Stack                       |
+| ---- |:---------------------------------------------------------------:| :-------------------------: |
+| 146  | LRU Cache                                                       | doubly linked list, hashmap |
+| 200  | Number of Islands                                               | dfs                         |
+| 42   | Trapping Rain Water                                             | dp, 2 pointers, stack       |
+
 
 * dijkstra
   * https://leetcode.com/discuss/interview-question/731911/please-share-dijkstras-algorithm-questions
