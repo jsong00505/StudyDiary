@@ -259,6 +259,15 @@
 | 200  | Number of Islands                                               | dfs                         |
 | 42   | Trapping Rain Water                                             | dp, 2 pointers, stack       |
 
+## 2021-05-24
+
+* Questions on Leetcode
+
+| No   | Title                                                           | Stack                       |
+| ---- |:---------------------------------------------------------------:| :-------------------------: |
+| 706  | Design HashMap                                                  | linked list                 |
+| 138  | Copy List with Random Pointer                                   | linked list                 |
+| 297  | Serialize and Deserialize Binary Tree                           | binary tree, dfs            |
 
 * dijkstra
   * https://leetcode.com/discuss/interview-question/731911/please-share-dijkstras-algorithm-questions
