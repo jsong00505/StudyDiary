@@ -239,7 +239,7 @@
 | 117  | Populating Next Right Pointers in Each Node II                  | bfs                         |
 | 227  | Basic Calculator II                                             | stack                       |
 
-## 2021-05-22
+## 2021-05-23
 
 * Questions on Leetcode
 
@@ -249,7 +249,7 @@
 | 445  | Add Two Numbers II                                              | linked list, stack          |
 | 721  | Accounts Merge                                                  | hashmap, union find         |
 
-## 2021-05-23
+## 2021-05-24
 
 * Questions on Leetcode
 
@@ -259,7 +259,7 @@
 | 200  | Number of Islands                                               | dfs                         |
 | 42   | Trapping Rain Water                                             | dp, 2 pointers, stack       |
 
-## 2021-05-24
+## 2021-05-25
 
 * Questions on Leetcode
 
@@ -268,6 +268,17 @@
 | 706  | Design HashMap                                                  | linked list                 |
 | 138  | Copy List with Random Pointer                                   | linked list                 |
 | 297  | Serialize and Deserialize Binary Tree                           | binary tree, dfs            |
+
+## 2021-05-26
+
+* Algorithm study
+* Questions on Leetcode
+
+| No   | Title                                                           | Stack                       |
+| ---- |:---------------------------------------------------------------:| :-------------------------: |
+| 218  | The Skyline Problem                                             | max heap, sort              |
+| 545  | Boundary of Binary Tree                                         | dfs                         |
+| 99   | Recover Binary Search Tree                                      | in order traverse           |
 
 * dijkstra
   * https://leetcode.com/discuss/interview-question/731911/please-share-dijkstras-algorithm-questions
