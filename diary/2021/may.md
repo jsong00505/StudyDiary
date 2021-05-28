@@ -280,6 +280,15 @@
 | 545  | Boundary of Binary Tree                                         | dfs                         |
 | 99   | Recover Binary Search Tree                                      | in order traverse           |
 
+## 2021-05-27
+
+* MIT Opencourse: hashing
+* Questions on Leetcode
+
+| No   | Title                                                           | Stack                       |
+| ---- |:---------------------------------------------------------------:| :-------------------------: |
+| 836  | Rectangle Overlap                                               | math                        |
+
 * dijkstra
   * https://leetcode.com/discuss/interview-question/731911/please-share-dijkstras-algorithm-questions
   * https://leetcode.com/list/53js48ke/
