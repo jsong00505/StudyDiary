@@ -289,6 +289,16 @@
 | ---- |:---------------------------------------------------------------:| :-------------------------: |
 | 836  | Rectangle Overlap                                               | math                        |
 
+## 2021-05-27
+
+* System Design
+* Questions on Leetcode
+
+| No   | Title                                                           | Stack                       |
+| ---- |:---------------------------------------------------------------:| :-------------------------: |
+| 43   | Multiply Strings                                                | array, math                 |
+
+
 * dijkstra
   * https://leetcode.com/discuss/interview-question/731911/please-share-dijkstras-algorithm-questions
   * https://leetcode.com/list/53js48ke/
