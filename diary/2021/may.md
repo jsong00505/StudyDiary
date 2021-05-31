@@ -304,6 +304,18 @@
 * MIT opencourse
 * System Design
 
+## 2021-05-30
+
+* behavior questions
+* MIT opencourse
+* System Design
+* Questions on Leetcode
+
+| No   | Title                                                           | Stack                       |
+| ---- |:---------------------------------------------------------------:| :-------------------------: |
+| 41   | First Missing Positive                                          | array                       |
+
+
 
 * dijkstra
   * https://leetcode.com/discuss/interview-question/731911/please-share-dijkstras-algorithm-questions
